@@ -1,5 +1,5 @@
 # Simulation of Schelling's Model
-Highlights: Data Visualization, Class Inheritance, Model Simulation API Requests
+Highlights: Data Visualization, Class Inheritance, Model Simulation, API Requests
 ## Background
 [Schelling's model of segregation](https://en.wikipedia.org/wiki/Schelling%27s_model_of_segregation) is an agent-based model developed by economist [Thomas Schelling](https://en.wikipedia.org/wiki/Thomas_Schelling). His work demonstrates that having people with **"mild"** in-group preference towards their own group could still lead to a highly segregated society [racial segregation](https://en.wikipedia.org/wiki/Racial_segregation).
 ## Description
